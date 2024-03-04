@@ -4,7 +4,7 @@
 ## 1. Overview
 The main aim of this assignment was to use **unsupervised learning** to predict if cryptocurrences are affected by 24-hour or 7-day price changes. Clusters were calculated on the original scaled data first. Then a Principal Components Analysis (PCA) was run to reduce the number of features in the data, and clusters were calculated again. 
 
-Clustering algorithms and dimensionality reduction were run using the [`scikit-learn` library](https://scikit-learn.org/stable/) for python. 
+Clustering algorithms and dimensionality reduction were run using the [`scikit-learn`](https://scikit-learn.org/stable/) library for python. 
 
 
 ## 2. Repository, set up and execution
