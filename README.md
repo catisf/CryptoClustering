@@ -12,7 +12,12 @@ This repository contains:
 - [`Crypto_Clustering.ipynb`](https://github.com/catisf/CryptoClustering/blob/main/Crypto_Clustering.ipynb): a jupyter notebook with all the necessary code to run the analyses. 
 - [`Resources`](https://github.com/catisf/CryptoClustering/blob/main/README.md): folder containing the original data files used in the analyses. 
 
-In order to run these analyses, you will need to have Python installed, as well as the relevant libraries (`pandas`, `hvplot` and `scikit-learn`). If you have all of these installed, just upen the jupyter notebook and run the code!
+In order to run these analyses:
+- Clone this repository into a local folder, by running `git clone https://github.com/catisf/CryptoClustering.git`.
+- Open the `Crypto_Clustering.ipynb` notebook and run the code.
+
+> [!NOTE]
+> In order to run these analyses, you will need to have Python and Jupyter Notebook installed, as well as relevant libraries (`pandas`, `hvplot` and `scikit-learn`)
 
 
 ## 3. Data source
